@@ -20,7 +20,7 @@ Un tablero de ajedrez.
 
 ### Clave de Sol
 
-Un juego de prendas musical. Fuente: Fichero de juegos : el juego : derecho y motor del desarrollo infantil.
+Un juego de prendas musical. Fuente: [Fichero de juegos : el juego : derecho y motor del desarrollo infantil](https://www.unicef.org/argentina/media/3306/file/Fichero%20de%20juegos.pdf)
 
 ### Garabato
 
